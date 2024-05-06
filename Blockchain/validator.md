@@ -1,0 +1,2 @@
+- What causes attestation target misses, as experienced by several users ? Is that normal, and what are the different steps ? ![Missed attestation target, resulting in a penalty](./attestation-target-miss.png)
+- Are the penalties higher for missing a block ? How can they be calculated ? 
