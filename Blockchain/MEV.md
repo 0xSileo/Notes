@@ -14,3 +14,4 @@
 - [Bob the builder](https://bobthebuilder.xyz/)
 - [Titan](https://www.titanbuilder.xyz/)
 - [0x69](https://docs.builder0x69.io/)
+- [Smith Bot](https://smithbot.xyz/)
