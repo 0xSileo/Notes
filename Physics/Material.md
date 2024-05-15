@@ -66,6 +66,8 @@ L'approximation que nous allons faire repose plutôt sur une simplification de t
     E_{e+i}[\vec{r_{\kappa}^a}] = E_{e+i}[\vec{R_{\kappa}^a}] + \sum_{\kappa \alpha a}\frac{\partial E_{e+i}}{\partial r_{\kappa \alpha}^a} u_{\kappa \alpha}^a + \frac{1}{2} \sum_{\kappa \alpha a\\ \kappa ' \beta b}\frac{\partial^2 E_{e+i}}{\partial r^a_{\kappa \alpha}\partial r^b_{\kappa '\beta}} u^a_{\kappa \alpha} u^b_{\kappa ' \beta} + \dots
 \end{equation}
 
+Ressource utile pour comprendre l'approximation harmonique : https://youtu.be/LGK2IZ77hZc
+
 <!--TODO-->
 
 #### 2.2.3 Signifiation des constantes de forces interatomiques
