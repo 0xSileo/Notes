@@ -9,3 +9,6 @@ Here is a list of links that are worth checking and moving in the appropriate se
 
 ### Starks
 - [Anatomy of a STARK](https://aszepieniec.github.io/stark-anatomy/) 
+
+### Starknet
+- [KKRT Sierra gas accounting X article](https://x.com/KakarotZkEvm/status/1798369846494691706)
