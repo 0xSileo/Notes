@@ -12,3 +12,5 @@ Here is a list of links that are worth checking and moving in the appropriate se
 
 ### Starknet
 - [KKRT Sierra gas accounting X article](https://x.com/KakarotZkEvm/status/1798369846494691706)
+
+- [Plonk Alignedlayer thread](https://x.com/alignedlayer/status/1798399297530286381)
